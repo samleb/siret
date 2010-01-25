@@ -1,0 +1,4 @@
+Generate and validate French SIRET numbers (enterprises identifier), as described here:
+http://fr.wikipedia.org/wiki/Système_d’identification_du_répertoire_des_établissements#Calcul_et_validit.C3.A9_d.27un_num.C3.A9ro_SIRET
+
+Repository: http://github.com/samleb/siret
