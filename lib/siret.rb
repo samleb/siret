@@ -1,8 +1,5 @@
 # French SIRET numbers validation and generation as described here:
 # http://fr.wikipedia.org/wiki/Système_d’identification_du_répertoire_des_établissements#Calcul_et_validit.C3.A9_d.27un_num.C3.A9ro_SIRET
-#
-# See usage by reading specs at the end of the file.
-# Run specs with <tt>ruby -rubygems siret.rb</tt> (requires RSpec).
 module Siret
   extend self
   
