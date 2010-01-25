@@ -8,7 +8,7 @@ begin
     gemspec.email = "samuel.lebeau@gmail.com"
     gemspec.homepage = "http://github.com/samleb/siret"
     gemspec.author = "Samuel Lebeau"
-    gemspec.add_dependency "spec"
+    gemspec.add_dependency "rspec"
   end
 rescue LoadError
   puts "Jeweler not available. Install it with: sudo gem install jeweler"
